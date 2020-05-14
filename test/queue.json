@@ -1,0 +1,14 @@
+[
+  {
+    "user": "1000",
+    "cmd": "#!/bin/bash\n/home/mark/Documents/tasks-queue-simple/test/test"
+  },
+  {
+    "user": "1000",
+    "cmd": "#!/bin/bash\n/home/mark/Documents/tasks-queue-simple/test/test"
+  },
+  {
+    "user": "1000",
+    "cmd": "#!/bin/bash\n/home/mark/Documents/tasks-queue-simple/test/test"
+  }
+]
